@@ -9,6 +9,10 @@ npm run dev
 # or
 yarn dev
 ```
+Need to install Next.js independently. Use following commands
+```
+npm i next
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
