@@ -5,9 +5,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
+cd to the explorer directory
+npm install
+npm update
+npm run dev # or yarn dev
 ```
 Need to install Next.js independently. Use following commands
 ```
